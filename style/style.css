@@ -46,6 +46,7 @@ main{
     flex-direction: column;
     text-align: right;
     gap: 20px;
+    padding-top: 15px;
 }
 
 #redes-sociais img:hover{
