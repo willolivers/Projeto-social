@@ -1,0 +1,90 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+
+img{
+    width: 100vw;
+}
+
+#bt-youtube{
+    display: block;
+    background-color: darkred;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bt-youtube:hover{
+    background-color: red;
+}
+
+#bt-facebook{
+    display: block;
+    background-color: darkblue;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bt-facebook:hover{
+    background-color: blue;
+}
+
+#bt-twitter{
+    display: block;
+    background-color: darkcyan;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bt-twitter:hover{
+    background-color: cyan;
+}
+
+#bt-instagram{
+    display: block;
+    background-color: darkorange;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bt-instagram:hover{
+    background-color: orange;
+}
+
+#bt-github{
+    display: block;
+    background-color: darkgreen;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#bt-github:hover{
+    background-color: green;
+}
